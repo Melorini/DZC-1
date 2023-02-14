@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\bin\Debug\net6.0\34.exe
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\bin\Debug\net6.0\34.deps.json
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\bin\Debug\net6.0\34.runtimeconfig.json
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\bin\Debug\net6.0\34.dll
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\bin\Debug\net6.0\34.pdb
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.AssemblyInfo.cs
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.dll
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\refint\34.dll
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.pdb
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\34.genruntimeconfig.cache
+C:\Users\ПК\Desktop\гик\C#\DZ\1\34\obj\Debug\net6.0\ref\34.dll
