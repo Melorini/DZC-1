@@ -1,0 +1,15 @@
+/Users/ELTA/Desktop/gik/68/bin/Debug/net6.0/68
+/Users/ELTA/Desktop/gik/68/bin/Debug/net6.0/68.deps.json
+/Users/ELTA/Desktop/gik/68/bin/Debug/net6.0/68.runtimeconfig.json
+/Users/ELTA/Desktop/gik/68/bin/Debug/net6.0/68.dll
+/Users/ELTA/Desktop/gik/68/bin/Debug/net6.0/68.pdb
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.csproj.AssemblyReference.cache
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.AssemblyInfoInputs.cache
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.AssemblyInfo.cs
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.csproj.CoreCompileInputs.cache
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.dll
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/refint/68.dll
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.pdb
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/68.genruntimeconfig.cache
+/Users/ELTA/Desktop/gik/68/obj/Debug/net6.0/ref/68.dll
